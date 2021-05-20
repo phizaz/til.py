@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 blocks until a specific time, 
 useful for planning to run a script at a specific time
